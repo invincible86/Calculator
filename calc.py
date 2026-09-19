@@ -1,7 +1,7 @@
 # Simple Calculator
 # VIT is sooo ahhh
 
-# im tying out git stash 
+# im trying out git stash 
 
 
 def add(a, b):
